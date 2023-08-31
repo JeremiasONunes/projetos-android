@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">template netflix</string>
+    <string name="menu_mensagem">menu</string>
+    <string name="menu_volume">Volume</string>
+    <string name="Menu_favoritar">favoritar</string>
+    <string name="Menu_episodio">Episódio</string>
+    <string name="tela_video">video</string>
+    <string name="botao_voltar">voltar</string>
+    <string name="botao_play">play</string>
+    <string name="botao_pause">pause</string>
+</resources>
